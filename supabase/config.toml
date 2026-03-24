@@ -1,0 +1,7 @@
+project_id = "ipnkrisnplhxjyjvakcf"
+
+[functions.analyze-peak-hours]
+verify_jwt = false
+
+[functions.send-booking-email]
+verify_jwt = false
